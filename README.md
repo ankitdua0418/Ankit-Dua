@@ -1,3 +1,3 @@
-# portfolio
+# Ankit Dua Website
 
-Ankit Dua
+This repository contains code for my personal website.
